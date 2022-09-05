@@ -1,0 +1,76 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+table{
+    
+    width: 1350px;
+}
+
+#fila1{
+    text-align: left;
+    background-color: brown;
+    
+    }
+
+#fila2{
+    text-align: right;
+    background-color: rgb(0, 110, 255);
+    
+    }
+
+#fila3{
+    text-align: left;
+    background-color: rgba(128, 0, 128, 0.795);
+    
+    }
+
+#fila4{
+    text-align: left;
+    background-color: rgb(0, 102, 255);
+        
+    }
+    
+#fila5{
+    text-align: right;
+    background-color: yellow;
+    
+    } 
+
+#fila6{
+    text-align: left;
+    background-color: whitesmoke;
+        
+    }
+
+
+
+#div1{
+    text-align: left;
+    background-color: rgba(71, 224, 10, 0.705);
+        
+        }
+
+
+#div2{
+    text-align: right;
+    background-color: rgb(230, 19, 19);
+
+        
+        }
+
+#div3{
+    text-align: left;
+    background-color:purple ;
+        
+        }
+        
+.divi{
+    color: white;
+}        
+        
